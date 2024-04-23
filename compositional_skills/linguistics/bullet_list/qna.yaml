@@ -4,11 +4,11 @@ task_description: >
   jointly rather than separately.
 seed_examples:
 - question: >
-    To apply for public benefit XYZ, provide the following:
+    "To apply for public benefit XYZ, provide the following:
 
     * Your full name and date of birth
 
-    * Your vehicle license plate number
+    * Your vehicle license plate number"
     Based on the above, Which of the following is true:
 
     (A) To apply for public benefit XYZ, you must provide both your full name and vehicle license plate number
@@ -18,7 +18,7 @@ seed_examples:
     (A) To apply for public benefit XYZ, you must provide both your full name and vehicle license plate number
 
 - question: >
-    Form W-2. If you were an employee, you should receive Form W-2 from your employer.
+    "Form W-2. If you were an employee, you should receive Form W-2 from your employer.
     You will need the information from this form to prepare your return. See Form W-2
     under Credit for Withholding and Estimated Tax for 2023 in chapter 4. Your employer
     is required to provide or send Form W-2 to you no later than January 31, 2024.
@@ -33,8 +33,8 @@ seed_examples:
 
     * Your dates of employment.
 
-    * Your employer's name, address (including ZIP code), and phone number.
-    
+    * Your employer's name, address (including ZIP code), and phone number."
+
     Based on the above, which of the following is true:
 
     (A) When requesting IRS help, an employee must provide both name and SSN.
@@ -57,7 +57,7 @@ seed_examples:
 
     Don't abbreviate the country name. Follow the country's practice for entering
     the postal code and the name of the province, county, or state.
-   
+
     Based on the above, which of the following is true:
 
     (A) If your address is outside the U.S., you must enter both foreign country name
@@ -70,7 +70,7 @@ seed_examples:
     and foreign postal code.
 
 - question: >
-    TITLE TRANSFERS
+    "TITLE TRANSFERS
 
     When you buy a vehicle, you need to transfer the vehicle's title to establish
     yourself as the new legal owner.
@@ -101,10 +101,10 @@ seed_examples:
     of the buyer.
 
     4. Allow 30 days from the day DMV receives your documents to process your
-    title transfer.
-    
+    title transfer."
+
     Based on the above, which of the following is true:
-    
+
     (A) To transfer the vehicle's title, you must have both your driver's license
     number and vehicle license plate number.
 
@@ -143,7 +143,7 @@ seed_examples:
 
     The DMV representative may give you a number and/or direct you to wait. When it
     is your turn, you will be called to a window to process your application.
-    
+
     Based on the above, which of the following is true:
 
     (A) When you arrive at a DMV office, you will need both correct fee(s) for your
