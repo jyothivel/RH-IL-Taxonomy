@@ -34,7 +34,7 @@ seed_examples:
     * Your dates of employment.
 
     * Your employer's name, address (including ZIP code), and phone number.
-   
+    
     Based on the above, which of the following is true:
 
     (A) When requesting IRS help, an employee must provide both name and SSN.
@@ -102,9 +102,9 @@ seed_examples:
 
     4. Allow 30 days from the day DMV receives your documents to process your
     title transfer.
-   
+    
     Based on the above, which of the following is true:
-
+    
     (A) To transfer the vehicle's title, you must have both your driver's license
     number and vehicle license plate number.
 
@@ -114,7 +114,7 @@ seed_examples:
     (A) To transfer the vehicle's title, you must have both your driver's license
     number and vehicle license plate number.
 
--  question: >
+- question: >
     To apply for an ID, you must complete a Driver License and Identification Card
     application and pay any fees. For current ID fees, visit www.dmv.ca.gov.
 
@@ -143,7 +143,7 @@ seed_examples:
 
     The DMV representative may give you a number and/or direct you to wait. When it
     is your turn, you will be called to a window to process your application.
-   
+    
     Based on the above, which of the following is true:
 
     (A) When you arrive at a DMV office, you will need both correct fee(s) for your
