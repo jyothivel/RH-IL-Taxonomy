@@ -4,7 +4,7 @@ seed_examples:
       CAAZ001, CAZ4536 are california car license plate numbers. AZCA002 is
       Arizona state car license plate number. C101010, A101010, Z420921,
       CZ23432,AA70873 does not belong to either California or Arizona.
-    context: 'CAAZ001, AZCA002, C101010, A101010, Z420921, CZ23432,AA70873, CAZ4536'
+    context: Burgers Pizza and Frenchfries
     question: >-
       California car license plate number starts with CA and Arizona state car
       license plate number starts with AZ, can you show which of the following
@@ -13,11 +13,9 @@ seed_examples:
   - answer: >-
       Mango, tomato, banana will go to green bags as they are fruits and eggs,
       meat, milk, beer will go to blue bags.
-    context: 'mango, tomato, banana, eggs, meat, milk, beer'
+    context: 'Pizza Burger and Frenchfries'
     question: >-
-      At a grocery store checkout, fruits go to green bags and other items go to
-      blue bags. Can you tell me which of the following items will go to which
-      color bags?
+      What is provided as conext here?
   - answer: >-
       Rhythm, Rihana will be in group R. Aamir, Andy, Andre will be in group A.
       Brent, Billy will be in group B. Dave, Donald will be in group D. Michael,
