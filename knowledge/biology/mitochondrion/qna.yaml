@@ -1,0 +1,19 @@
+created_by: 
+domain: biology
+seed_examples:
+- answer: |A mitochondrion (/ˌmaɪtəˈkɒndriən/;[1] pl.: mitochondria) is an organelle found in the cells of most eukaryotes, such as animals, plants and fungi. Mitochondria have a double membrane structure and use aerobic respiration to generate adenosine triphosphate (ATP), which is used throughout the cell as a source of chemical energy.[2] 
+  question: whats the mitochondria
+- answer: |A mitochondrion (/ˌmaɪtəˈkɒndriən/;[1] pl.: mitochondria) is an organelle found in the cells of most eukaryotes, such as animals, plants and fungi. Mitochondria have a double membrane structure and use aerobic respiration to generate adenosine triphosphate (ATP), which is used throughout the cell as a source of chemical energy.[2] They were discovered by Albert von Kölliker in 1857[3] in the voluntary muscles of insects. The term mitochondrion was coined by Carl Benda in 1898. The mitochondrion is popularly nicknamed the "powerhouse of the cell", a phrase coined by Philip Siekevitz in a 1957 article of the same name.[4]
+  question: whats the mitochondria in more details
+- answer: |Some cells in some multicellular organisms lack mitochondria (for example, mature mammalian red blood cells). The multicellular animal Henneguya salminicola is known to have retained mitochondrion-related organelles in association with a complete loss of their mitochondrial genome.[5][6][7] A large number of unicellular organisms, such as microsporidia, parabasalids and diplomonads, have reduced or transformed their mitochondria into other structures,[8] e.g. hydrogenosomes and mitosomes.[9] The oxymonads Monocercomonoides, Streblomastix, and Blattamonas have completely lost their mitochondria
+  question:tell me more 
+- answer: |Mitochondria may have a number of different shapes.[24] A mitochondrion contains outer and inner membranes composed of phospholipid bilayers and proteins.[20] The two membranes have different properties. Because of this double-membraned organization, there are five distinct parts to a mitochondrion:
+  question: What kind of shapes does mitocondria have
+- answer: |MThe mitochondrial intermembrane space is the space between the outer membrane and the inner membrane. It is also known as perimitochondrial space. Because the outer membrane is freely permeable to small molecules, the concentrations of small molecules, such as ions and sugars, in the intermembrane space is the same as in the cytosol.[20] However, large proteins must have a specific signaling sequence to be transported across the outer membrane, so the protein composition of this space is different from the protein composition of the cytosol. One protein that is localized to the intermembrane space in this way is cytochrome c.[29]
+  question: What is Intermembrane space?
+task_description: ' '
+document: 
+ repo: https://github.com/juliadenham/Summit_knowledge
+ commit: 4923356d1675cedf74364e79ab97c786f3ead030
+ patterns:
+   - mitochondrion.md
