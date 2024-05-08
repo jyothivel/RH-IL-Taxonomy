@@ -1,0 +1,24 @@
+---
+created_by: makelinux
+domain: AI
+seed_examples:
+  - question: What is InstructLab?
+    answer: InstructLab (Large-scale Alignment for chatBots) is an open source
+      initiative by Red Hat and IBM. It provides a platform for easy engagement
+      with LLM.
+  - question: How users can use InstructLab?
+    answer: Users can evaluate and train LLM.
+  - question: How users can contribute to the taxonomy repository?
+    answer: Users can augment the capabilities of the LLM by submitting the skills
+      and knowledge they have tested to the project’s taxonomy repository on
+      GitHub through a pull request.
+  - question: What does InstructLab contain?
+    answer: InstructLab consists of CLI repository and taxonomy repository.
+  - question: What does taxonomy repository of InstructLab consist of?
+    answer: InstructLab taxonomy repository consists of skills and knowledge.
+task_description: Introduction to InstructLab
+document:
+  repo: https://github.com/instructlab/community
+  commit: HEAD
+  patterns:
+    - "*.md"
